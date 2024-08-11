@@ -52,5 +52,5 @@ int main() {
     int answer = solution.calculateMax(network_nodes, network_from, network_to, frequency);
     cout << "the required answer is  " << answer << endl;
     
-    return 0;
+    return 1;
 }
